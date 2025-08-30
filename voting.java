@@ -7,7 +7,7 @@ System.out.println("Your age is "+age+"Year:"+" You are Eligible for vote");
 }
 else
 {
-System.out.println("Your age is "+age+"Year:"+"Not Eligible for vote");
+System.out.println("Your age is "+age+"Year:"+"You are Not Eligible for vote");
 }
 
 
