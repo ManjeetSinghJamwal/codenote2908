@@ -5,7 +5,7 @@ class Human{
 		return age;
 	}
 	
-	public String gettName() {
+	public String getName() {
 		return name;
 	}
 	
@@ -17,7 +17,7 @@ public class ExceptionExample {
 	public static void main(String[] args) {
 		Human obj=new Human();
 		System.out.println(obj.getAge());
-		System.out.println(obj.gettName());
+		System.out.println(obj.getName());
 		
 		
 		
